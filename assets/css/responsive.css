@@ -219,4 +219,23 @@
     border-radius: 20px;
 } 
 
+.lovetesting {
+    margin: 0;
+}
+
+.thediamonds-audio {
+    margin: 0;
+    width: 100%
+}
+
+.lovetesting {
+    border-radius: 20px;
+    margin: 0px 10% 0px;
+}
+
+iframe.lovetesting {
+    width: 80%;
+    height: 229px;
+}
+
 }

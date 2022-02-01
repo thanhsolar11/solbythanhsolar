@@ -115,7 +115,7 @@ html {
 .slider {
     margin-top: 60px;
     padding-top: 45%;
-    background:linear-gradient(90deg, rgba(106, 178, 211, 0.3), rgba(212, 116, 142, 0.3)) ,url('../img/20210610_021414.jpg') top center / cover no-repeat;
+    background:linear-gradient(90deg, rgba(106, 178, 211, 0.3), rgba(212, 116, 142, 0.3)) ,url('../img/20210610_021414.jpg') center / cover no-repeat;
     position: relative;
 }
 
@@ -385,4 +385,33 @@ html {
 .content-more {
     background-color: #F1B5C4;
     min-height: 800px;
+}
+
+.thediamonds-audio {
+    margin: 0 29%;
+    border-radius: 20px;
+}
+
+.lovetesting {
+    border-radius: 20px;
+    margin: 0px 10% 150px;
+}
+
+iframe.lovetesting {
+    width: 80%;
+    height: 756px;
+}
+
+::webkit-scrollbar{
+    width: 25px;
+}
+
+::webkit-scrollbar-track{
+    border:7px solid #232943;
+    box-shadow: inset 0 0 2.5px 2px rgba(0, 0, 0, 0.5);
+}
+
+::webkit-scrollbar-thumb{
+    background: linear-gradient(45deg, #A4CDE4, #E4A3B7 );
+    border-radius: 3px;
 }
