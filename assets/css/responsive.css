@@ -238,4 +238,13 @@ iframe.lovetesting {
     height: 229px;
 }
 
+.content-heading {
+    text-align: center;
+    font-size: 1.7rem;
+    text-transform: uppercase;
+    color: #fff;
+    line-height: 2rem;
+
+}
+
 }
