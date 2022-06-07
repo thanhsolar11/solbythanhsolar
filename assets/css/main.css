@@ -416,3 +416,7 @@ iframe.lovetesting {
     background: linear-gradient(45deg, #A4CDE4, #E4A3B7 );
     border-radius: 3px;
 }
+
+.hide-on-pc {
+    display: none;
+}
